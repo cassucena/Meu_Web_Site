@@ -1,0 +1,84 @@
+.margin {
+    margin: 100px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+
+h3 {
+    margin-left: 100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+iframe {
+    margin-top: 30px;
+}
+
+
+.contato {
+    margin-top: 60px;
+    list-style: none;
+    line-height: 50px;
+}
+
+h5 {
+    margin-top: 20px;
+}
+
+.submit {
+    width: 600px
+}
+
+
+.rede-social {
+    position: fixed;
+    right: 0px;
+    top: 200px;
+
+}
+
+.icones {
+    display: block;
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+
+}
+
+
+li a.list {
+    display: block;
+    color: white;
+    width: 40px;
+    height: 31px;
+    text-indent: -9999px;
+    overflow: hidden;
+    background: #fff url('./img/socialmedia.jpg') 0 0 no-repeat;
+}
+
+
+li a.icone1 {
+    background-position: -53px -36px;
+}
+
+li a.icone1:hover {
+    background-position: -53px -67px;
+}
+
+li a.icone2 {
+    background-position: -53px -205px;
+}
+
+li a.icone2:hover {
+    background-position: -53px -240px;
+}
+
+li a.icone3 {
+    background-position: -350px -120px;
+}
+
+li a.icone3:hover {
+    background-position: -350px -150px;
